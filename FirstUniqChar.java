@@ -1,6 +1,6 @@
 // First Unique Character in a String
 class FirstUniqChar{
-  public static void (String[] args){
+  public static void main(String[] args){
     int result = firstUniqCharin("leetcode");
     System.out.println(result);
   }
