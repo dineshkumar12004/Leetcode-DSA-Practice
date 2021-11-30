@@ -1,3 +1,5 @@
+package JAVA;
+
 class Max69Numbers {
     public static void main(String[] args) {
         int num = 9669;

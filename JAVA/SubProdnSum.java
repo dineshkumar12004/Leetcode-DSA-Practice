@@ -1,3 +1,5 @@
+package JAVA;
+
 class SubProdnSum {
     public static void main(String[] args) {
         int n = 4421;

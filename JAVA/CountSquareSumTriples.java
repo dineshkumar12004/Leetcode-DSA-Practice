@@ -1,3 +1,5 @@
+package JAVA;
+
 class CountSquareSumTriples {
     public static void main(String[] args) {
         int result = countTriples(5);

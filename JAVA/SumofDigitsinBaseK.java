@@ -1,3 +1,5 @@
+package JAVA;
+
 public class SumofDigitsinBaseK {
     public static void main(String[] args) {
         int n = 34;

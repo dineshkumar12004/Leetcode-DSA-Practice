@@ -1,3 +1,5 @@
+package JAVA;
+
 class countBinarySubstrings {
     public static void main(String[] args) {
         System.out.println(new countBinarySubstrings().countBinarySubstring("00110011"));

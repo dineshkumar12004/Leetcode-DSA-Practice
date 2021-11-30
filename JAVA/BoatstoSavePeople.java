@@ -1,3 +1,5 @@
+package JAVA;
+
 class BoatstoSavePeople {
     public static void main(String[] args) {
         int[] people = { 3, 2, 2, 1 };

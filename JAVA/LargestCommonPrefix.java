@@ -1,3 +1,5 @@
+package JAVA;
+
 class LargestCommonPrefix {
     public static void main(String[] args) {
         String[] strs = { "flower", "flow", "flight" };
