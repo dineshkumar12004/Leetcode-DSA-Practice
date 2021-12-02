@@ -1,9 +1,13 @@
+
+import java.util.ArrayList;
+import java.util.List;
+
 class SelfDividingNo {
     public static void main(String[] args) {
         int left = 1;
         int right = 22;
-        int[] res = selfDividingNumbers(left, right);
-        System.out.println(Arrays.toString(res));
+        List<Integer> res = selfDividingNumbers(left, right);
+        System.out.println(res);
     }
 
     public static List<Integer> selfDividingNumbers(int left, int right) {
